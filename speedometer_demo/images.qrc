@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Component 1_prev_ui.png</file>
+        <file>images/MicrosoftTeams-image (1).png</file>
+        <file>images/Rectangle 1.png</file>
+        <file>images/New Project (1).png</file>
+        <file>images/New Project (2).png</file>
+    </qresource>
+</RCC>
